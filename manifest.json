@@ -4,6 +4,6 @@
     "id": "85c073ad-f473-4959-b655-1e5b232d46d7",
     "url": "https://github.com/baulk/bucket",
     "mirrors": [
-        "https://github.com/Good-o-Tom/Baulk-Scooplized-Bucket"
+        "git@github.com/Good-o-Tom/Baulk-Scooplized-Bucket"
     ]
 }
